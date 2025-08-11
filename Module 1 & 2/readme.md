@@ -2,6 +2,14 @@
 
 Welcome to the **foundational part** of our journey into the **Model Context Protocol (MCP)**. Before we write any code, it’s essential to understand the **“why” and “what”** behind MCP.
 
+## Live Deployment
+
+Click the image below to preview the application live!
+
+[![Demo GIF](https://github.com/PCTEJA/intro_to_mcp/blob/main/Module%201%20%26%202/MCP_Video_1.gif)](https://intro-to-mcp.vercel.app/)
+
+[Live Deployment: intro-to-mcp.vercel.app](https://intro-to-mcp.vercel.app/)
+
 ---
 
 ## Module 1: The Big Picture
