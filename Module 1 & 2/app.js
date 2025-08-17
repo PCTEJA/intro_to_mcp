@@ -538,9 +538,9 @@ class MCPLearningPlatform {
                 <p>You've completed Module 1: The Big Picture</p>
                 <p>You now understand why MCP was created and how it revolutionizes AI tool integration.</p>
                 <div class="modal-actions">
-                    <button class="btn btn--primary close-modal">
+                    <a href="Module_2/index.html"><button class="btn btn--primary close-modal">
                         Continue Learning
-                    </button>
+                    </button></a>
                 </div>
             </div>
         `;
